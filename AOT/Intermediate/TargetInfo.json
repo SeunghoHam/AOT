@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BattleForces",
+			"Path": "D:\\UnrealEngineProject\\BattleForces\\BattleForces\\Source\\BattleForces.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BattleForcesEditor",
+			"Path": "D:\\UnrealEngineProject\\BattleForces\\BattleForces\\Source\\BattleForcesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
