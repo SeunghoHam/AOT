@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\UnrealEngineProject\\BattleForces\\BattleForces\\Source\\BattleForces\\BattleForces.Build.cs",
-		"D:\\UnrealEngineProject\\BattleForces\\BattleForces\\Source\\BattleForces.Target.cs",
-		"D:\\UnrealEngineProject\\BattleForces\\BattleForces\\Source\\BattleForcesEditor.Target.cs"
-	],
-	"EngineVersion": "4.27.1"
-}
