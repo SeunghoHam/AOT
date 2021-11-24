@@ -1,2 +1,2 @@
-D:\UnrealEngineProject\BattleForces\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\Definitions.BattleForces.h
-D:\UnrealEngineProject\BattleForces\BattleForces\Source\BattleForces\BattleForces.h
+C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\Definitions.BattleForces.h
+C:\Users\xldgh\Desktop\AOT\BattleForces\Source\BattleForces\BattleForces.h

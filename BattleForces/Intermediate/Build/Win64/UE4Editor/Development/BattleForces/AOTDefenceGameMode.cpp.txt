@@ -1,20 +1,20 @@
-D:\UnrealEngineProject\BattleForces\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\Definitions.BattleForces.h
-D:\UnrealEngineProject\BattleForces\BattleForces\Source\BattleForces\Public\AOTDefenceGameMode.h
-D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameMode.h
-D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameMode.generated.h
-D:\UnrealEngineProject\BattleForces\BattleForces\Intermediate\Build\Win64\UE4Editor\Inc\BattleForces\AOTDefenceGameMode.generated.h
-D:\UnrealEngineProject\BattleForces\BattleForces\Source\BattleForces\Public\AOTDefenceGameState.h
-D:\UnrealEngineProject\BattleForces\BattleForces\Source\BattleForces\Public\AOTGameState.h
-D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameState.h
-D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
-D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameStateBase.generated.h
-D:\UnrealEngine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameState.generated.h
-D:\UnrealEngineProject\BattleForces\BattleForces\Intermediate\Build\Win64\UE4Editor\Inc\BattleForces\AOTGameState.generated.h
-D:\UnrealEngineProject\BattleForces\BattleForces\Intermediate\Build\Win64\UE4Editor\Inc\BattleForces\AOTDefenceGameState.generated.h
-D:\UnrealEngine\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineUtils.h
-D:\UnrealEngineProject\BattleForces\BattleForces\Source\BattleForces\Public\Gun.h
-D:\UnrealEngineProject\BattleForces\BattleForces\Intermediate\Build\Win64\UE4Editor\Inc\BattleForces\Gun.generated.h
+C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\Definitions.BattleForces.h
+C:\Users\xldgh\Desktop\AOT\BattleForces\Source\BattleForces\Public\AOTDefenceGameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameMode.generated.h
+C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Inc\BattleForces\AOTDefenceGameMode.generated.h
+C:\Users\xldgh\Desktop\AOT\BattleForces\Source\BattleForces\Public\AOTDefenceGameState.h
+C:\Users\xldgh\Desktop\AOT\BattleForces\Source\BattleForces\Public\AOTGameState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameStateBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameState.generated.h
+C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Inc\BattleForces\AOTGameState.generated.h
+C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Inc\BattleForces\AOTDefenceGameState.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineUtils.h
+C:\Users\xldgh\Desktop\AOT\BattleForces\Source\BattleForces\Public\Gun.h
+C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Inc\BattleForces\Gun.generated.h

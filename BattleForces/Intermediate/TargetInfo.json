@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "BattleForces",
-			"Path": "D:\\UnrealEngineProject\\AOT\\AOT\\Source\\BattleForces.Target.cs",
+			"Path": "C:\\Users\\xldgh\\Desktop\\AOT\\BattleForces\\Source\\BattleForces.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "BattleForcesEditor",
-			"Path": "D:\\UnrealEngineProject\\AOT\\AOT\\Source\\BattleForcesEditor.Target.cs",
+			"Path": "C:\\Users\\xldgh\\Desktop\\AOT\\BattleForces\\Source\\BattleForcesEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

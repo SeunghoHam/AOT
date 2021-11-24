@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I D:\UnrealEngineProject\AOT\BattleForces\Source\BattleForces\Private
+/I D:\UnrealEngineProject\BattleForces\BattleForces\Source\BattleForces\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
 /I Runtime\Engine\Classes
@@ -232,9 +232,9 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I D:\UnrealEngineProject\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Inc\BattleForces
-/I D:\UnrealEngineProject\AOT\BattleForces\Source
-/I D:\UnrealEngineProject\AOT\BattleForces\Source\BattleForces\Public
+/I D:\UnrealEngineProject\BattleForces\BattleForces\Intermediate\Build\Win64\UE4Editor\Inc\BattleForces
+/I D:\UnrealEngineProject\BattleForces\BattleForces\Source
+/I D:\UnrealEngineProject\BattleForces\BattleForces\Source\BattleForces\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -264,12 +264,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"D:\UnrealEngineProject\AOT\BattleForces\Intermediate\Build\Win64\BattleForcesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\UnrealEngineProject\AOT\BattleForces\Intermediate\Build\Win64\BattleForcesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\UnrealEngineProject\AOT\BattleForces\Intermediate\Build\Win64\BattleForcesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\UnrealEngineProject\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Inc\BattleForces\Gadget.gen.cpp"
-/FI"D:\UnrealEngineProject\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\Definitions.BattleForces.h"
-/Fo"D:\UnrealEngineProject\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\Gadget.gen.cpp.obj"
+/FI"D:\UnrealEngineProject\BattleForces\BattleForces\Intermediate\Build\Win64\BattleForcesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\UnrealEngineProject\BattleForces\BattleForces\Intermediate\Build\Win64\BattleForcesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\UnrealEngineProject\BattleForces\BattleForces\Intermediate\Build\Win64\BattleForcesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\UnrealEngineProject\BattleForces\BattleForces\Intermediate\Build\Win64\UE4Editor\Inc\BattleForces\Gadget.gen.cpp"
+/FI"D:\UnrealEngineProject\BattleForces\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\Definitions.BattleForces.h"
+/Fo"D:\UnrealEngineProject\BattleForces\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\Gadget.gen.cpp.obj"
 /TP
 /GR-
 /W4
