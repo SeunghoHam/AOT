@@ -1,0 +1,1322 @@
+﻿Log file open, 11/24/21 14:02:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BattleForces
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.144265
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.24-05.02.08:203][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.24-05.02.08:203][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Engine.ini]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Engine.ini]
+[2021.11.24-05.02.08:204][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Engine.ini]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Engine.ini]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.24-05.02.08:204][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Engine.ini]
+[2021.11.24-05.02.08:204][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Engine.ini]
+[2021.11.24-05.02.08:217][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.24-05.02.08:217][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.24-05.02.08:218][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.24-05.02.08:219][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.24-05.02.08:219][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.24-05.02.08:220][  0]LogHAL: Display: Platform has ~ 8 GB [8466305024 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.24-05.02.08:220][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.24-05.02.08:221][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.24-05.02.08:221][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.24-05.02.08:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.24-05.02.08:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.24-05.02.08:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.24-05.02.08:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.24-05.02.08:223][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.24-05.02.08:223][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-05.02.08:223][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.24-05.02.08:223][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.24-05.02.08:223][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-05.02.08:223][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.24-05.02.08:223][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.24-05.02.08:223][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.24-05.02.08:223][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.24-05.02.08:224][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.24-05.02.08:224][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.24-05.02.08:224][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.24-05.02.08:224][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Engine.ini]
+[2021.11.24-05.02.08:224][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Config/Windows/Editor.ini]
+[2021.11.24-05.02.08:226][  0]LogInit: Computer: DESKTOP-49OT2IV
+[2021.11.24-05.02.08:226][  0]LogInit: User: xldgh
+[2021.11.24-05.02.08:226][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.11.24-05.02.08:226][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.24-05.02.08:226][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.11.24-05.02.08:226][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.24-05.02.08:226][  0]LogMemory: Process Physical Memory: 143.16 MB used, 143.17 MB peak
+[2021.11.24-05.02.08:226][  0]LogMemory: Process Virtual Memory: 114.39 MB used, 114.39 MB peak
+[2021.11.24-05.02.08:226][  0]LogMemory: Physical Memory: 4168.56 MB used,  3905.54 MB free, 8074.10 MB total
+[2021.11.24-05.02.08:226][  0]LogMemory: Virtual Memory: 134211224.00 MB used,  6500.53 MB free, 134217728.00 MB total
+[2021.11.24-05.02.08:234][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.24-05.02.08:433][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.24-05.02.08:437][  0]LogInit: Using OS detected language (ko-KR).
+[2021.11.24-05.02.08:437][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.11.24-05.02.08:476][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2021.11.24-05.02.08:723][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.24-05.02.08:760][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.24-05.02.08:852][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.24-05.02.08:852][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.24-05.02.11:476][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.11.24-05.02.11:480][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.24-05.02.11:480][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.24-05.02.11:480][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.24-05.02.11:480][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.24-05.02.11:590][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2021.11.24-05.02.11:590][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.11.24-05.02.11:593][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.24-05.02.11:593][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.24-05.02.11:593][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.24-05.02.11:599][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.24-05.02.11:599][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.24-05.02.11:599][  0]LogWindows: EnumDisplayDevices:
+[2021.11.24-05.02.11:600][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2021.11.24-05.02.11:600][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.11.24-05.02.11:600][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.11.24-05.02.11:600][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2021.11.24-05.02.11:600][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2021.11.24-05.02.11:600][  0]LogD3D11RHI:   Driver Version: 26.20.100.7372 (internal:26.20.100.7372, unified:26.20.100.7372)
+[2021.11.24-05.02.11:600][  0]LogD3D11RHI:      Driver Date: 10-25-2019
+[2021.11.24-05.02.11:601][  0]LogRHI: Texture pool is 1502 MB (70% of 2146 MB)
+[2021.11.24-05.02.11:792][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.11.24-05.02.11:841][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2021.11.24-05.02.11:841][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2021.11.24-05.02.11:841][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2021.11.24-05.02.11:843][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2021.11.24-05.02.11:843][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.24-05.02.11:843][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.24-05.02.11:880][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2021.11.24-05.02.12:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.24-05.02.12:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.24-05.02.12:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.24-05.02.12:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.24-05.02.12:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.24-05.02.12:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.24-05.02.12:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.24-05.02.12:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.24-05.02.12:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.24-05.02.12:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.24-05.02.12:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.24-05.02.12:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.24-05.02.12:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.24-05.02.12:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.24-05.02.12:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.24-05.02.12:439][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.24-05.02.12:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.24-05.02.12:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.24-05.02.12:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.24-05.02.12:480][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.24-05.02.12:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.24-05.02.12:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.24-05.02.12:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.24-05.02.12:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.24-05.02.12:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.24-05.02.12:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.24-05.02.12:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.24-05.02.12:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.24-05.02.12:581][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.24-05.02.12:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.24-05.02.12:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.24-05.02.12:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.24-05.02.12:602][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.24-05.02.12:617][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.24-05.02.12:684][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.11.24-05.02.12:840][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.24-05.02.12:844][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/xldgh/Desktop/AOT/BattleForces/Intermediate/Shaders/WorkingDirectory/10000/).
+[2021.11.24-05.02.12:844][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/xldgh/AppData/Local/Temp/UnrealShaderWorkingDir/478DB95C41D6751EA0F3C2A83194017C/'.
+[2021.11.24-05.02.12:846][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.11.24-05.02.12:846][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.24-05.02.12:846][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.24-05.02.13:939][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.24-05.02.14:192][  0]LogDerivedDataCache: Loaded boot cache 0.25s 95MB C:/Users/xldgh/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.24-05.02.14:192][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/xldgh/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.11.24-05.02.14:192][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/xldgh/Desktop/AOT/BattleForces/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.24-05.02.14:192][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.24-05.02.14:192][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/xldgh/Desktop/AOT/BattleForces/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.24-05.02.14:192][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.24-05.02.14:215][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.24-05.02.14:215][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.24-05.02.14:215][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.24-05.02.14:238][  0]LogDerivedDataCache: Speed tests for C:/Users/xldgh/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.11.24-05.02.14:238][  0]LogDerivedDataCache: Display: Performance to C:/Users/xldgh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.46ms. RandomReadSpeed=76.37MBs, RandomWriteSpeed=184.72MBs. Assigned SpeedClass 'Local'
+[2021.11.24-05.02.14:238][  0]LogDerivedDataCache: Using Local data cache path C:/Users/xldgh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.24-05.02.14:239][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.24-05.02.14:239][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.24-05.02.14:301][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.24-05.02.14:311][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.24-05.02.14:373][  0]LogAssetRegistry: FAssetRegistry took 0.0080 seconds to start up
+[2021.11.24-05.02.14:773][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.24-05.02.14:773][  0]LogInit: Active device profile: [000001B3529BAB00][000001B346139500 49] Windows
+[2021.11.24-05.02.14:773][  0]LogInit: Profiles: [000001B3529BAB00][000001B346139500 49] Windows, [000001B352972F00][000001B346141680 49] WindowsNoEditor, [000001B3529BB600][000001B346145800 49] WindowsServer, [000001B352970B00][000001B346149980 49] WindowsClient, [000001B3529B8B00][000001B34614DB00 49] IOS, [000001B352973600][000001B352488100 49] iPadAir, [000001B3529B8F00][000001B35248C280 49] iPadAir2, [000001B352912500][000001B352494540 49] IPadPro, [000001B352912600][000001B352490580 49] iPadAir3, [000001B3529B8600][000001B352498700 49] iPadAir4, [000001B352912A00][000001B34613C840 49] iPadMini2, [000001B3529B9A00][000001B35249C980 49] iPadMini3, [000001B352913000][000001B3524A0AC0 49] iPadMini4, [000001B3529B8200][000001B3524A8C40 49] iPadMini5, [000001B352961E00][000001B3524B0F00 49] iPhone6, [000001B352961F00][000001B3524ACF40 49] iPodTouch6, [000001B352911000][000001B3524B9200 49] iPhone7, [000001B352911C00][000001B3524B5240 49] iPodTouch7, [000001B352960100][000001B3524BD3C0 49] iPhone5S, [000001B352911F00][000001B3524C1540 49] iPhone6Plus, [000001B352962700][000001B3524C56C0 49] iPhone6S, [000001B352912400][000001B3524C9840 49] iPhone6SPlus, [000001B352962A00][000001B3524CD9C0 49] iPhone7Plus, [000001B352911400][000001B35369FB40 49] iPhoneSE, [000001B352960F00][000001B3536A2140 49] iPhone8, [000001B352913500][000001B3536A62C0 49] iPhone8Plus, [000001B352960D00][000001B3536AA440 49] iPhoneX, [000001B352912800][000001B3536AE5C0 49] iPhoneXS, [000001B352961D00][000001B3536B2740 49] iPhoneXSMax, [000001B352912F00][000001B3536B68C0 49] iPhoneXR, [000001B352961C00][000001B3524A4A00 49] iPhone11, [000001B352910E00][000001B3536BAB40 49] iPhone11Pro, [000001B352962000][000001B3536BEC80 49] iPhone11ProMax, [000001B352912000][000001B3536C2DC0 49] iPhoneSE2, [000001B352960700][000001B3536CAF40 49] iPhone12Mini, [000001B352910200][000001B3536CF0C0 49] iPhone12, [000001B352960400][000001B3536D3240 49] iPhone12Pro, [000001B352910300][000001B3536D73C0 49] iPhone12ProMax, [000001B352962200][000001B3536DB540 49] iPadPro105, [000001B352911600][000001B3536DF6C0 49] iPadPro129, [000001B352962D00][000001B3536E3840 49] iPadPro97, [000001B352913A00][000001B3536E79C0 49] iPadPro2_129, [000001B352960A00][000001B3536EBB40 49] iPad5, [000001B352910400][000001B3536EE140 49] iPad6, [000001B352961900][000001B3536F22C0 49] iPad7, [000001B352911900][000001B3536F6440 49] iPad8, [000001B352962B00][000001B3536FA5C0 49] iPadPro11, [000001B352913B00][000001B3536FE740 49] iPadPro2_11, [000001B352973100][000001B3537028C0 49] iPadPro3_129, [000001B3529F5100][000001B353706A40 49] iPadPro4_129, [000001B352972C00][000001B3536C6B80 49] AppleTV, [000001B3529F4900][000001B35370ACC0 49] AppleTV4K, [000001B352971A00][000001B35370EE00 49] TVOS, [000001B3529F5700][000001B353712F40 49] Mac, [000001B352970C00][000001B35371B0C0 49] MacClient, [000001B3529F5000][000001B35371F240 49] MacNoEditor, [000001B352971300][000001B3537233C0 49] MacServer, [000001B3529F4500][000001B353727540 49] Linux, [000001B352970700][000001B35372B6C0 49] LinuxAArch64, [000001B3529F5B00][000001B35372F840 49] LinuxNoEditor, [000001B352973E00][000001B3537339C0 49] LinuxAArch64NoEditor, [000001B3529F4C00][000001B353737B40 49] LinuxClient, [000001B352972800][000001B35373A140 49] LinuxAArch64Client, [000001B3529F4400][000001B35373E2C0 49] LinuxServer, [000001B352911A00][000001B353742440 49] LinuxAArch64Server, [000001B352963500][000001B3537465C0 49] Android, [000001B352913E00][000001B35374A740 49] Android_Low, [000001B352961700][000001B35374E8C0 49] Android_Mid, [000001B352913200][000001B353752A40 49] Android_High, [000001B352963F00][000001B353756BC0 49] Android_Default, [000001B352910B00][000001B35375AD40 49] Android_Adreno4xx, [000001B352963300][000001B353716E80 49] Android_Adreno5xx_Low, [000001B352912700][000001B35375EFC0 49] Android_Adreno5xx, [000001B352960900][000001B353763100 49] Android_Adreno6xx, [000001B352913700][000001B35376B280 49] Android_Adreno6xx_Vulkan, [000001B352960B00][000001B35376F400 49] Android_Mali_T6xx, [000001B352913F00][000001B353773580 49] Android_Mali_T7xx, [000001B3529F5800][000001B353777700 49] Android_Mali_T8xx, [000001B352913300][000001B35377B880 49] Android_Mali_G71, [000001B3529F4100][000001B35377FA00 49] Android_Mali_G72, [000001B352910800][000001B353783B80 49] Android_Mali_G72_Vulkan, [000001B3529F4200][000001B353786180 49] Android_Mali_G76, [000001B352913800][000001B35378A300 49] Android_Mali_G76_Vulkan, [000001B3529F5E00][000001B35378E480 49] Android_Mali_G77, [000001B352910C00][000001B353792600 49] Android_Mali_G77_Vulkan, [000001B352963100][000001B353796780 49] Android_Mali_G78, [000001B352911300][000001B35379A900 49] Android_Mali_G78_Vulkan, [000001B352962900][000001B35379EA80 49] Android_Mali_G710, [000001B352910F00][000001B3537A2C00 49] Android_Mali_G710_Vulkan, [000001B352960C00][000001B3537A6D80 49] Android_Vulkan_SM5, [000001B352913C00][000001B3537AAF00 49] Android_PowerVR_G6xxx, [000001B352962800][000001B353767040 49] Android_PowerVR_GT7xxx, [000001B352912C00][000001B3537AF180 49] Android_PowerVR_GE8xxx, [000001B352963200][000001B3537B32C0 49] Android_PowerVR_GM9xxx, [000001B352911200][000001B3537BB440 49] Android_PowerVR_GM9xxx_Vulkan, [000001B352961800][000001B3537BF5C0 49] Android_TegraK1, [000001B352913900][000001B3537C3740 49] Android_Unknown_Vulkan, [000001B352961200][000001B3537C78C0 49] Lumin, [000001B352911500][000001B3537CBA40 49] Lumin_Desktop, [000001B352962F00][000001B3537CFBC0 49] HoloLens, 
+[2021.11.24-05.02.15:025][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.24-05.02.15:025][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.24-05.02.15:025][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.24-05.02.15:025][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.24-05.02.15:026][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.24-05.02.15:072][  0]LogNetVersion: BattleForces 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2123270266)
+[2021.11.24-05.02.15:982][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.24-05.02.16:098][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.24-05.02.16:108][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.11.24-05.02.16:108][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.11.24-05.02.16:108][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.24-05.02.16:877][  0]LogPython: Using Python 3.7.7
+[2021.11.24-05.02.17:720][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 3E0411AC475879EA9D72D1B638D8F83A | Instance: F6F365A947759AD1600BE39ABB244A12 (DESKTOP-49OT2IV-10000).
+[2021.11.24-05.02.17:917][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.11.24-05.02.17:917][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.11.24-05.02.17:917][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.11.24-05.02.17:917][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.11.24-05.02.17:917][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.11.24-05.02.17:917][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.11.24-05.02.17:917][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.11.24-05.02.17:917][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.11.24-05.02.17:917][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.11.24-05.02.17:917][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.11.24-05.02.17:917][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.11.24-05.02.17:917][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.11.24-05.02.17:917][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.11.24-05.02.17:917][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.11.24-05.02.17:917][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.11.24-05.02.17:917][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.11.24-05.02.18:220][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.24-05.02.18:220][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.24-05.02.18:220][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.24-05.02.18:234][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.24-05.02.18:792][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.24-05.02.18:792][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.24-05.02.18:836][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.24-05.02.18:846][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.24-05.02.18:865][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.24-05.02.19:146][  0]LogUProjectInfo: Found projects:
+[2021.11.24-05.02.19:225][  0]LogOpenImageDenoise: OIDN starting up
+[2021.11.24-05.02.19:360][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.24-05.02.19:410][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.24-05.02.19:410][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.24-05.02.19:655][  0]LogCollectionManager: Loaded 0 collections in 0.002549 seconds
+[2021.11.24-05.02.19:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xldgh/Desktop/AOT/BattleForces/Saved/Collections/' took 0.00s
+[2021.11.24-05.02.19:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xldgh/Desktop/AOT/BattleForces/Content/Developers/xldgh/Collections/' took 0.00s
+[2021.11.24-05.02.19:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xldgh/Desktop/AOT/BattleForces/Content/Collections/' took 0.00s
+[2021.11.24-05.02.19:705][  0]LogOcInput: OculusInput pre-init called
+[2021.11.24-05.02.20:028][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.11.24-05.02.20:029][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.11.24-05.02.20:029][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.24-05.02.20:029][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.24-05.02.20:029][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.11.24-05.02.20:029][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.11.24-05.02.20:029][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.11.24-05.02.20:029][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.11.24-05.02.20:029][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.11.24-05.02.20:029][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.11.24-05.02.20:029][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.11.24-05.02.20:029][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.11.24-05.02.20:029][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.11.24-05.02.20:029][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.11.24-05.02.20:029][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.11.24-05.02.20:029][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.11.24-05.02.20:029][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.11.24-05.02.20:029][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.11.24-05.02.20:134][  0]LogEngine: Initializing Engine...
+[2021.11.24-05.02.20:147][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.11.24-05.02.20:147][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.24-05.02.20:148][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.24-05.02.20:152][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2021.11.24-05.02.20:353][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.24-05.02.20:434][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.24-05.02.20:457][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.24-05.02.20:465][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.11.24-05.02.20:468][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.11.24-05.02.20:476][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.24-05.02.20:476][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.24-05.02.20:479][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-05.02.20:479][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-05.02.20:479][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-05.02.20:479][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-05.02.20:479][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-05.02.20:479][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-05.02.20:479][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-05.02.20:479][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-05.02.20:486][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.24-05.02.20:486][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.24-05.02.20:486][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.24-05.02.20:486][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-05.02.20:528][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-05.02.20:528][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-05.02.20:854][  0]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2021.11.24-05.02.20:861][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-05.02.20:866][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-05.02.20:866][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-05.02.20:870][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-05.02.20:871][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-05.02.20:871][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-05.02.20:872][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-05.02.20:872][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-05.02.20:872][  0]LogInit: FAudioDevice initialized.
+[2021.11.24-05.02.20:875][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.24-05.02.20:877][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.24-05.02.20:962][  0]LogDerivedDataCache: Saved boot cache 0.08s 95MB C:/Users/xldgh/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.24-05.02.20:962][  0]LogInit: Texture streaming: Enabled
+[2021.11.24-05.02.20:992][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-17155196+++UE4+Release-4.27
+[2021.11.24-05.02.21:000][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.24-05.02.21:001][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.24-05.02.21:009][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.24-05.02.21:077][  0]LogInit: Transaction tracking system initialized
+[2021.11.24-05.02.21:133][  0]BlueprintLog: New page: 에디터 로드
+[2021.11.24-05.02.21:319][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2021.11.24-05.02.21:400][  0]TimingProfiler: Initialize
+[2021.11.24-05.02.21:404][  0]TimingProfiler: OnSessionChanged
+[2021.11.24-05.02.21:404][  0]LoadingProfiler: Initialize
+[2021.11.24-05.02.21:404][  0]LoadingProfiler: OnSessionChanged
+[2021.11.24-05.02.21:405][  0]NetworkingProfiler: Initialize
+[2021.11.24-05.02.21:406][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.24-05.02.21:406][  0]MemoryProfiler: Initialize
+[2021.11.24-05.02.21:406][  0]MemoryProfiler: OnSessionChanged
+[2021.11.24-05.02.21:829][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.24-05.02.21:829][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.24-05.02.22:188][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xldgh/Desktop/AOT/BattleForces/Content/' took 0.01s
+[2021.11.24-05.02.22:511][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.11.24-05.02.22:511][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.11.24-05.02.22:511][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.11.24-05.02.22:511][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.11.24-05.02.22:511][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.11.24-05.02.22:511][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.11.24-05.02.22:511][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.11.24-05.02.22:511][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.11.24-05.02.22:511][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.11.24-05.02.22:511][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.11.24-05.02.22:511][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.11.24-05.02.22:511][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.11.24-05.02.22:511][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.11.24-05.02.22:511][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.11.24-05.02.22:511][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.11.24-05.02.22:511][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.11.24-05.02.22:511][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.24-05.02.22:511][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.24-05.02.22:511][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.24-05.02.22:529][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2021.11.24-05.02.22:529][  0]LogUnrealEdMisc: Loading editor; pre map load, took 19.160
+[2021.11.24-05.02.22:532][  0]Cmd: MAP LOAD FILE="../../../../../../Users/xldgh/Desktop/AOT/BattleForces/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.24-05.02.22:535][  0]LightingResults: New page: 라이팅 빌드
+[2021.11.24-05.02.22:547][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-05.02.22:552][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-05.02.22:559][  0]MapCheck: New page: 맵 체크
+[2021.11.24-05.02.22:559][  0]LightingResults: New page: 라이팅 빌드
+[2021.11.24-05.02.22:586][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-05.02.22:626][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.11.24-05.02.23:133][  0]LogK2Compiler: Warning: ValidateVariableNames name LastRoundWinnerTeam (used in /Game/Blueprints/BP_AOTDefenceGameState.BP_AOTDefenceGameState) is already taken by /Script/BattleForces.AOTDefenceGameState:LastRoundWinnerTeam
+[2021.11.24-05.02.23:134][  0]LogBlueprint: Warning: [AssetLog] C:\Users\xldgh\Desktop\AOT\BattleForces\Content\Blueprints\BP_AOTDefenceGameState.uasset: [Compiler] 이름이 상충하는 (LastRoundWinnerTeam) 멤버 변수가 있어, 이름을 변경했습니다: LastRoundWinnerTeam_0.
+[2021.11.24-05.02.24:247][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test'.
+[2021.11.24-05.02.24:250][  0]LogAIModule: Creating AISystem for world Test
+[2021.11.24-05.02.24:347][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.24-05.02.24:404][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.11.24-05.02.24:410][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.24-05.02.24:411][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 1.053ms.
+[2021.11.24-05.02.24:411][  0]LogFileHelpers: Loading map 'Test' took 1.881
+[2021.11.24-05.02.24:513][  0]LogUnrealEdMisc: Total Editor Startup Time, took 21.144
+[2021.11.24-05.02.24:766][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-05.02.24:775][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-05.02.24:785][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-05.02.24:792][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-05.02.24:879][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0135 seconds. Added 3831 classes and 931 folders.
+[2021.11.24-05.02.24:900][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.24-05.02.24:922][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.24-05.02.24:922][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.24:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.24-05.02.24:924][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.24:924][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.11.24-05.02.24:924][  0]LogPakFile: OnPakFileMounted2Time == 0.002610
+[2021.11.24-05.02.24:932][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.24-05.02.24:932][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.24:932][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.24-05.02.24:932][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.24:932][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.11.24-05.02.24:932][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.11.24-05.02.24:935][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.24-05.02.24:935][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.24:935][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.24-05.02.24:935][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.24:935][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.11.24-05.02.24:935][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.11.24-05.02.24:938][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.24-05.02.24:938][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.24:938][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.24-05.02.24:938][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.24:938][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.11.24-05.02.24:938][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.11.24-05.02.24:947][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.24-05.02.24:947][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.24:947][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.24-05.02.24:947][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.24:947][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.11.24-05.02.24:947][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.11.24-05.02.24:954][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.24-05.02.24:954][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.24:954][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.24-05.02.24:954][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.24:954][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.11.24-05.02.24:954][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.11.24-05.02.24:955][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.24-05.02.24:955][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.24:955][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.24-05.02.24:955][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.24:955][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.11.24-05.02.24:955][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.11.24-05.02.24:964][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.24-05.02.24:964][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.24:964][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.24-05.02.24:964][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.24:964][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.11.24-05.02.24:964][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.11.24-05.02.24:972][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.24-05.02.24:972][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.24:972][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.24-05.02.24:972][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.24:972][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.11.24-05.02.24:972][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.11.24-05.02.24:983][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.24-05.02.24:983][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.24:983][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.24-05.02.24:983][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.24:983][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.11.24-05.02.24:983][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.11.24-05.02.24:989][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.24-05.02.24:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.24:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.24-05.02.24:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.24:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.11.24-05.02.24:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.11.24-05.02.24:997][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.24-05.02.24:997][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.24:997][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.24-05.02.24:997][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.24:997][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.11.24-05.02.24:997][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.11.24-05.02.25:004][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.24-05.02.25:004][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.25:004][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.24-05.02.25:004][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.25:004][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.11.24-05.02.25:004][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.11.24-05.02.25:011][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.24-05.02.25:011][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.25:011][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.24-05.02.25:011][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.25:011][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.11.24-05.02.25:011][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.11.24-05.02.25:019][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.24-05.02.25:019][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.25:019][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.24-05.02.25:019][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.25:019][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.11.24-05.02.25:019][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.11.24-05.02.25:026][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.24-05.02.25:026][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.25:026][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.24-05.02.25:026][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.25:026][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.11.24-05.02.25:026][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.11.24-05.02.25:035][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.24-05.02.25:035][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.25:035][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.24-05.02.25:035][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.25:035][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.11.24-05.02.25:035][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.11.24-05.02.25:042][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.24-05.02.25:042][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.25:042][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.24-05.02.25:042][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.25:042][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.11.24-05.02.25:042][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.11.24-05.02.25:048][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.24-05.02.25:048][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.25:048][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.24-05.02.25:048][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.25:048][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.11.24-05.02.25:048][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.11.24-05.02.25:059][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.24-05.02.25:059][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.25:059][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.24-05.02.25:060][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.25:060][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.11.24-05.02.25:060][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2021.11.24-05.02.25:066][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.24-05.02.25:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.25:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.24-05.02.25:066][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.25:066][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.11.24-05.02.25:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.11.24-05.02.25:074][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.24-05.02.25:075][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.25:075][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.24-05.02.25:075][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.25:075][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.11.24-05.02.25:075][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2021.11.24-05.02.25:084][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.24-05.02.25:084][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.25:084][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.24-05.02.25:084][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.25:084][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.11.24-05.02.25:084][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.11.24-05.02.25:092][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.24-05.02.25:093][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.25:093][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.24-05.02.25:093][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.25:093][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.11.24-05.02.25:093][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.11.24-05.02.25:100][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.24-05.02.25:100][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.25:100][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.24-05.02.25:100][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.25:100][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.11.24-05.02.25:100][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.11.24-05.02.25:107][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.24-05.02.25:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-05.02.25:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.24-05.02.25:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-05.02.25:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.11.24-05.02.25:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.11.24-05.02.25:274][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.11.24-05.02.25:292][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.11.24-05.02.26:071][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.11.24-05.02.26:206][  0]LogSlate: Took 0.001022 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.24-05.02.26:240][  0]LogSlate: Took 0.014029 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.11.24-05.02.26:971][  0]LogSlate: Took 0.006857 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.24-05.02.26:988][  0]LogSlate: Took 0.014630 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.11.24-05.02.26:990][  0]LogSlate: Took 0.001227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.24-05.02.27:154][  0]LogRenderer: Reallocating scene render targets to support 1036x464 Format 10 NumSamples 1 (Frame:1).
+[2021.11.24-05.02.27:394][  0]LogSlate: Took 0.001265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.24-05.02.27:458][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.24-05.02.27:458][  0]LogLoad: (Engine Initialization) Total time: 24.09 seconds
+[2021.11.24-05.02.27:458][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.24-05.02.27:825][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.24-05.02.27:882][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/xldgh/Desktop/AOT/BattleForces/Content/' took 0.37s
+[2021.11.24-05.02.27:922][  1]LogAssetRegistry: Asset discovery search completed in 13.5494 seconds
+[2021.11.24-05.02.27:946][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000396 seconds (updated 0 objects)
+[2021.11.24-05.02.28:890][  4]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.24-05.02.52:052][232]LogSlate: Took 0.004818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.24-05.03.21:608][442]LogHttp: Warning: 000001B32420EB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.24-05.03.21:612][442]LogHttp: Warning: 000001B32420EB00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2021.11.24-05.03.21:612][442]LogHttp: Warning: 000001B32420EB00: libcurl info message cache 0 (  Trying 121.166.148.201...)
+[2021.11.24-05.03.21:612][442]LogHttp: Warning: 000001B32420EB00: libcurl info message cache 1 (TCP_NODELAY set)
+[2021.11.24-05.03.21:612][442]LogHttp: Warning: 000001B32420EB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (121.166.148.201) port 443 (#0))
+[2021.11.24-05.03.21:612][442]LogHttp: Warning: 000001B32420EB00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2021.11.24-05.03.21:612][442]LogHttp: Warning: 000001B32420EB00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2021.11.24-05.03.21:612][442]LogHttp: Warning: 000001B32420EB00: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2021.11.24-05.03.21:612][442]LogHttp: Warning: 000001B32420EB00: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2021.11.24-05.03.21:612][442]LogHttp: Warning: 000001B32420EB00: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2021.11.24-05.03.21:612][442]LogHttp: Warning: 000001B32420EB00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2021.11.24-05.03.21:612][442]LogHttp: Warning: 000001B32420EB00: libcurl info message cache 9 (SSL certificate problem: unable to get local issuer certificate)
+[2021.11.24-05.03.21:613][442]LogHttp: Warning: 000001B32420EB00: libcurl info message cache 10 (Closing connection 0)
+[2021.11.24-05.03.21:613][442]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.11.24-05.04.21:070][491]LogHttp: Warning: 000001B323A03200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.24-05.04.21:070][491]LogHttp: Warning: 000001B323A03200: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2021.11.24-05.04.21:070][491]LogHttp: Warning: 000001B323A03200: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2021.11.24-05.04.21:070][491]LogHttp: Warning: 000001B323A03200: libcurl info message cache 1 (  Trying 121.166.148.201...)
+[2021.11.24-05.04.21:070][491]LogHttp: Warning: 000001B323A03200: libcurl info message cache 2 (TCP_NODELAY set)
+[2021.11.24-05.04.21:070][491]LogHttp: Warning: 000001B323A03200: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (121.166.148.201) port 443 (#1))
+[2021.11.24-05.04.21:070][491]LogHttp: Warning: 000001B323A03200: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2021.11.24-05.04.21:070][491]LogHttp: Warning: 000001B323A03200: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2021.11.24-05.04.21:070][491]LogHttp: Warning: 000001B323A03200: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2021.11.24-05.04.21:070][491]LogHttp: Warning: 000001B323A03200: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2021.11.24-05.04.21:070][491]LogHttp: Warning: 000001B323A03200: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2021.11.24-05.04.21:070][491]LogHttp: Warning: 000001B323A03200: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2021.11.24-05.04.21:070][491]LogHttp: Warning: 000001B323A03200: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2021.11.24-05.04.21:070][491]LogHttp: Warning: 000001B323A03200: libcurl info message cache 11 (Closing connection 1)
+[2021.11.24-05.04.21:107][492]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.11.24-05.04.21:361][495]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/xldgh/Desktop/AOT/BattleForces/BattleForces.uproject" -game -rocket -progress
+[2021.11.24-05.04.21:870][495]Discovering modules, targets and source code for project...
+[2021.11.24-05.04.25:189][495]Binding IntelliSense data...
+[2021.11.24-05.04.34:762][495]Binding IntelliSense data... 100%
+[2021.11.24-05.04.34:762][495]Writing project files...
+[2021.11.24-05.04.40:700][495]Writing project files... 100%
+[2021.11.24-05.04.40:913][495]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.11.24-05.04.40:946][495]Candidate modules for hot reload:
+[2021.11.24-05.04.40:946][495]  BattleForces
+[2021.11.24-05.04.40:946][495]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleForces,1595 BattleForcesEditor Win64 Development -Project="C:/Users/xldgh/Desktop/AOT/BattleForces/BattleForces.uproject" "C:/Users/xldgh/Desktop/AOT/BattleForces/BattleForces.uproject"  -IgnoreJunk]
+[2021.11.24-05.05.12:953][495]CompilerResultsLog: New page: 컴파일 - 2021. 11. 24. 오후 11:05:12
+[2021.11.24-05.05.12:953][495]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\xldgh\Desktop\AOT).
+[2021.11.24-05.05.12:953][495]CompilerResultsLog: Creating makefile for BattleForcesEditor (no existing makefile)
+[2021.11.24-05.05.12:953][495]CompilerResultsLog: Parsing headers for BattleForcesEditor
+[2021.11.24-05.05.12:953][495]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\xldgh\Desktop\AOT\BattleForces\BattleForces.uproject" "C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\BattleForcesEditor\Development\BattleForcesEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\xldgh\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.11.24-05.05.12:953][495]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.11.24-05.05.12:953][495]CompilerResultsLog: Reflection code generated for BattleForcesEditor in 15.7174742 seconds
+[2021.11.24-05.05.12:953][495]CompilerResultsLog: Building BattleForcesEditor...
+[2021.11.24-05.05.12:953][495]CompilerResultsLog: Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.11.24-05.05.12:953][495]CompilerResultsLog: Building 6 actions with 8 processes...
+[2021.11.24-05.05.12:953][495]CompilerResultsLog:   [1/6] BattleForces.init.gen.cpp
+[2021.11.24-05.05.12:953][495]CompilerResultsLog:   [2/6] AICharacter.cpp
+[2021.11.24-05.05.12:953][495]CompilerResultsLog:   [3/6] AICharacter.gen.cpp
+[2021.11.24-05.05.12:954][495]CompilerResultsLog:   [4/6] UE4Editor-BattleForces-1595.lib
+[2021.11.24-05.05.12:954][495]CompilerResultsLog:      C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\UE4Editor-BattleForces-1595.lib ???̺귯?? ?? C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\UE4Editor-BattleForces-1595.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2021.11.24-05.05.12:954][495]CompilerResultsLog:   [5/6] UE4Editor-BattleForces-1595.dll
+[2021.11.24-05.05.12:954][495]CompilerResultsLog:      C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\UE4Editor-BattleForces-1595.suppressed.lib ???̺귯?? ?? C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\UE4Editor-BattleForces-1595.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2021.11.24-05.05.12:954][495]CompilerResultsLog:   [6/6] BattleForcesEditor.target
+[2021.11.24-05.05.12:954][495]CompilerResultsLog: Total time in Parallel executor: 12.92 seconds
+[2021.11.24-05.05.12:954][495]CompilerResultsLog: Total execution time: 31.89 seconds
+[2021.11.24-05.05.12:954][495]LogMainFrame: MainFrame: Module compiling took 32.041 seconds
+[2021.11.24-05.05.13:004][495]LogClass: Could not find existing class AICharacter in package /Script/BattleForces for HotReload, assuming new class
+[2021.11.24-05.05.13:019][495]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleForces' in 0.0003 seconds. Added 10 classes and 3 folders.
+[2021.11.24-05.05.13:025][495]Display: HotReload successful (25 functions remapped  0 scriptstructs remapped)
+[2021.11.24-05.05.13:106][495]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0117 seconds. Added 3832 classes and 931 folders.
+[2021.11.24-05.05.13:114][495]Display: HotReload took 32.2s.
+[2021.11.24-05.05.13:124][495]Warning: HotReload operation took 32.2s.
+[2021.11.24-05.05.13:323][495]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2021.11.24-05.05.13:369][495]LogHotReload: New module detected: UE4Editor-BattleForces-1595.dll
+[2021.11.24-05.05.13:505][496]LogHotReload: Starting Hot-Reload from IDE
+[2021.11.24-05.05.13:712][496]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleForces' in 0.0003 seconds. Added 10 classes and 3 folders.
+[2021.11.24-05.05.13:717][496]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.11.24-05.05.13:729][496]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0122 seconds. Added 3832 classes and 931 folders.
+[2021.11.24-05.05.13:735][496]Display: HotReload took  0.2s.
+[2021.11.24-05.05.38:229][508]LogHttp: Warning: 000001B323CA8100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.24-05.05.38:229][508]LogHttp: Warning: 000001B323CA8100: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2021.11.24-05.05.38:229][508]LogHttp: Warning: 000001B323CA8100: libcurl info message cache 0 (  Trying 121.166.148.201...)
+[2021.11.24-05.05.38:229][508]LogHttp: Warning: 000001B323CA8100: libcurl info message cache 1 (TCP_NODELAY set)
+[2021.11.24-05.05.38:229][508]LogHttp: Warning: 000001B323CA8100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (121.166.148.201) port 443 (#2))
+[2021.11.24-05.05.38:229][508]LogHttp: Warning: 000001B323CA8100: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2021.11.24-05.05.38:229][508]LogHttp: Warning: 000001B323CA8100: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2021.11.24-05.05.38:229][508]LogHttp: Warning: 000001B323CA8100: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2021.11.24-05.05.38:229][508]LogHttp: Warning: 000001B323CA8100: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2021.11.24-05.05.38:229][508]LogHttp: Warning: 000001B323CA8100: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2021.11.24-05.05.38:229][508]LogHttp: Warning: 000001B323CA8100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2021.11.24-05.05.38:229][508]LogHttp: Warning: 000001B323CA8100: libcurl info message cache 9 (SSL certificate problem: unable to get local issuer certificate)
+[2021.11.24-05.05.38:229][508]LogHttp: Warning: 000001B323CA8100: libcurl info message cache 10 (Closing connection 2)
+[2021.11.24-05.05.38:229][508]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.11.24-05.06.05:124][787]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.11.24-05.06.27:610][163]LogHttp: Warning: 000001B385F91600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.24-05.06.27:610][163]LogHttp: Warning: 000001B385F91600: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2021.11.24-05.06.27:610][163]LogHttp: Warning: 000001B385F91600: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2021.11.24-05.06.27:610][163]LogHttp: Warning: 000001B385F91600: libcurl info message cache 1 (  Trying 121.166.148.201...)
+[2021.11.24-05.06.27:610][163]LogHttp: Warning: 000001B385F91600: libcurl info message cache 2 (TCP_NODELAY set)
+[2021.11.24-05.06.27:610][163]LogHttp: Warning: 000001B385F91600: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (121.166.148.201) port 443 (#3))
+[2021.11.24-05.06.27:610][163]LogHttp: Warning: 000001B385F91600: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2021.11.24-05.06.27:610][163]LogHttp: Warning: 000001B385F91600: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2021.11.24-05.06.27:610][163]LogHttp: Warning: 000001B385F91600: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2021.11.24-05.06.27:610][163]LogHttp: Warning: 000001B385F91600: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2021.11.24-05.06.27:610][163]LogHttp: Warning: 000001B385F91600: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2021.11.24-05.06.27:610][163]LogHttp: Warning: 000001B385F91600: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2021.11.24-05.06.27:610][163]LogHttp: Warning: 000001B385F91600: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2021.11.24-05.06.27:610][163]LogHttp: Warning: 000001B385F91600: libcurl info message cache 11 (Closing connection 3)
+[2021.11.24-05.06.27:648][164]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.11.24-05.06.42:127][534]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/xldgh/Desktop/AOT/BattleForces/BattleForces.uproject" -game -rocket -progress
+[2021.11.24-05.06.42:835][534]Discovering modules, targets and source code for project...
+[2021.11.24-05.06.50:082][534]Binding IntelliSense data...
+[2021.11.24-05.07.00:156][534]Binding IntelliSense data... 100%
+[2021.11.24-05.07.00:157][534]Writing project files...
+[2021.11.24-05.07.05:696][534]Writing project files... 100%
+[2021.11.24-05.07.05:919][534]Candidate modules for hot reload:
+[2021.11.24-05.07.05:919][534]  BattleForces
+[2021.11.24-05.07.05:920][534]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleForces,9066 BattleForcesEditor Win64 Development -Project="C:/Users/xldgh/Desktop/AOT/BattleForces/BattleForces.uproject" "C:/Users/xldgh/Desktop/AOT/BattleForces/BattleForces.uproject"  -IgnoreJunk]
+[2021.11.24-05.07.31:806][534]CompilerResultsLog: New page: 컴파일 - 2021. 11. 24. 오후 11:07:31
+[2021.11.24-05.07.31:806][534]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\xldgh\Desktop\AOT).
+[2021.11.24-05.07.31:806][534]CompilerResultsLog: Creating makefile for BattleForcesEditor (no existing makefile)
+[2021.11.24-05.07.31:806][534]CompilerResultsLog: Parsing headers for BattleForcesEditor
+[2021.11.24-05.07.31:806][534]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\xldgh\Desktop\AOT\BattleForces\BattleForces.uproject" "C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\BattleForcesEditor\Development\BattleForcesEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\xldgh\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.11.24-05.07.31:806][534]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.11.24-05.07.31:806][534]CompilerResultsLog: Reflection code generated for BattleForcesEditor in 6.2054533 seconds
+[2021.11.24-05.07.31:806][534]CompilerResultsLog: Building BattleForcesEditor...
+[2021.11.24-05.07.31:806][534]CompilerResultsLog: Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.11.24-05.07.31:806][534]CompilerResultsLog: Building 6 actions with 8 processes...
+[2021.11.24-05.07.31:806][534]CompilerResultsLog:   [1/6] BattleForces.init.gen.cpp
+[2021.11.24-05.07.31:806][534]CompilerResultsLog:   [2/6] TitanController.cpp
+[2021.11.24-05.07.31:806][534]CompilerResultsLog:   [3/6] TitanController.gen.cpp
+[2021.11.24-05.07.31:807][534]CompilerResultsLog:   [4/6] UE4Editor-BattleForces-9066.lib
+[2021.11.24-05.07.31:807][534]CompilerResultsLog:      C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\UE4Editor-BattleForces-9066.lib ???̺귯?? ?? C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\UE4Editor-BattleForces-9066.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2021.11.24-05.07.31:807][534]CompilerResultsLog:   [5/6] UE4Editor-BattleForces-9066.dll
+[2021.11.24-05.07.31:807][534]CompilerResultsLog:      C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\UE4Editor-BattleForces-9066.suppressed.lib ???̺귯?? ?? C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\UE4Editor-BattleForces-9066.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2021.11.24-05.07.31:807][534]CompilerResultsLog:   [6/6] BattleForcesEditor.target
+[2021.11.24-05.07.31:807][534]CompilerResultsLog: Total time in Parallel executor: 16.31 seconds
+[2021.11.24-05.07.31:807][534]CompilerResultsLog: Total execution time: 25.72 seconds
+[2021.11.24-05.07.31:807][534]LogMainFrame: MainFrame: Module compiling took 25.891 seconds
+[2021.11.24-05.07.31:951][534]LogClass: Could not find existing class TitanController in package /Script/BattleForces for HotReload, assuming new class
+[2021.11.24-05.07.31:958][534]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleForces' in 0.0004 seconds. Added 11 classes and 3 folders.
+[2021.11.24-05.07.31:963][534]Display: HotReload successful (25 functions remapped  0 scriptstructs remapped)
+[2021.11.24-05.07.32:024][534]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0108 seconds. Added 3833 classes and 931 folders.
+[2021.11.24-05.07.32:028][534]Display: HotReload took 26.1s.
+[2021.11.24-05.07.32:043][534]Warning: HotReload operation took 26.1s.
+[2021.11.24-05.07.33:161][534]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2021.11.24-05.07.33:168][534]LogHotReload: New module detected: UE4Editor-BattleForces-9066.dll
+[2021.11.24-05.07.33:199][535]LogHotReload: Starting Hot-Reload from IDE
+[2021.11.24-05.07.33:226][535]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleForces' in 0.0003 seconds. Added 11 classes and 3 folders.
+[2021.11.24-05.07.33:232][535]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.11.24-05.07.33:247][535]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0141 seconds. Added 3833 classes and 931 folders.
+[2021.11.24-05.07.33:253][535]Display: HotReload took  0.1s.
+[2021.11.24-05.07.33:318][535]LogHttp: Warning: 000001B3240F0800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.24-05.07.33:318][535]LogHttp: Warning: 000001B3240F0800: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2021.11.24-05.07.33:318][535]LogHttp: Warning: 000001B3240F0800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2021.11.24-05.07.33:318][535]LogHttp: Warning: 000001B3240F0800: libcurl info message cache 1 (  Trying 121.166.148.201...)
+[2021.11.24-05.07.33:318][535]LogHttp: Warning: 000001B3240F0800: libcurl info message cache 2 (TCP_NODELAY set)
+[2021.11.24-05.07.33:318][535]LogHttp: Warning: 000001B3240F0800: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (121.166.148.201) port 443 (#4))
+[2021.11.24-05.07.33:318][535]LogHttp: Warning: 000001B3240F0800: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2021.11.24-05.07.33:318][535]LogHttp: Warning: 000001B3240F0800: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2021.11.24-05.07.33:318][535]LogHttp: Warning: 000001B3240F0800: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2021.11.24-05.07.33:318][535]LogHttp: Warning: 000001B3240F0800: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2021.11.24-05.07.33:318][535]LogHttp: Warning: 000001B3240F0800: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2021.11.24-05.07.33:318][535]LogHttp: Warning: 000001B3240F0800: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2021.11.24-05.07.33:318][535]LogHttp: Warning: 000001B3240F0800: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2021.11.24-05.07.33:318][535]LogHttp: Warning: 000001B3240F0800: libcurl info message cache 11 (Closing connection 4)
+[2021.11.24-05.07.33:348][536]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.11.24-05.07.58:698][959]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/xldgh/Desktop/AOT/BattleForces/BattleForces.uproject" -game -rocket -progress
+[2021.11.24-05.07.59:205][959]Discovering modules, targets and source code for project...
+[2021.11.24-05.08.01:822][959]Binding IntelliSense data...
+[2021.11.24-05.08.05:671][959]Binding IntelliSense data... 100%
+[2021.11.24-05.08.05:672][959]Writing project files...
+[2021.11.24-05.08.11:009][959]Writing project files... 100%
+[2021.11.24-05.08.11:163][959]Candidate modules for hot reload:
+[2021.11.24-05.08.11:163][959]  BattleForces
+[2021.11.24-05.08.11:163][959]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleForces,8285 BattleForcesEditor Win64 Development -Project="C:/Users/xldgh/Desktop/AOT/BattleForces/BattleForces.uproject" "C:/Users/xldgh/Desktop/AOT/BattleForces/BattleForces.uproject"  -IgnoreJunk]
+[2021.11.24-05.08.32:119][959]CompilerResultsLog: New page: 컴파일 - 2021. 11. 24. 오후 11:08:32
+[2021.11.24-05.08.32:119][959]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\xldgh\Desktop\AOT).
+[2021.11.24-05.08.32:119][959]CompilerResultsLog: Creating makefile for BattleForcesEditor (no existing makefile)
+[2021.11.24-05.08.32:119][959]CompilerResultsLog: Parsing headers for BattleForcesEditor
+[2021.11.24-05.08.32:119][959]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\xldgh\Desktop\AOT\BattleForces\BattleForces.uproject" "C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\BattleForcesEditor\Development\BattleForcesEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\xldgh\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.11.24-05.08.32:119][959]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.11.24-05.08.32:119][959]CompilerResultsLog: Reflection code generated for BattleForcesEditor in 5.6597683 seconds
+[2021.11.24-05.08.32:119][959]CompilerResultsLog: Building BattleForcesEditor...
+[2021.11.24-05.08.32:119][959]CompilerResultsLog: Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.11.24-05.08.32:119][959]CompilerResultsLog: Building 6 actions with 8 processes...
+[2021.11.24-05.08.32:119][959]CompilerResultsLog:   [1/6] BattleForces.init.gen.cpp
+[2021.11.24-05.08.32:119][959]CompilerResultsLog:   [2/6] TitanCharacter.cpp
+[2021.11.24-05.08.32:119][959]CompilerResultsLog:   [3/6] TitanCharacter.gen.cpp
+[2021.11.24-05.08.32:119][959]CompilerResultsLog:   [4/6] UE4Editor-BattleForces-8285.lib
+[2021.11.24-05.08.32:119][959]CompilerResultsLog:      C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\UE4Editor-BattleForces-8285.lib ???̺귯?? ?? C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\UE4Editor-BattleForces-8285.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2021.11.24-05.08.32:119][959]CompilerResultsLog:   [5/6] UE4Editor-BattleForces-8285.dll
+[2021.11.24-05.08.32:119][959]CompilerResultsLog:      C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\UE4Editor-BattleForces-8285.suppressed.lib ???̺귯?? ?? C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\UE4Editor-BattleForces-8285.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2021.11.24-05.08.32:119][959]CompilerResultsLog:   [6/6] BattleForcesEditor.target
+[2021.11.24-05.08.32:119][959]CompilerResultsLog: Total time in Parallel executor: 12.21 seconds
+[2021.11.24-05.08.32:119][959]CompilerResultsLog: Total execution time: 20.83 seconds
+[2021.11.24-05.08.32:119][959]LogMainFrame: MainFrame: Module compiling took 20.959 seconds
+[2021.11.24-05.08.32:157][959]LogClass: Could not find existing class TitanCharacter in package /Script/BattleForces for HotReload, assuming new class
+[2021.11.24-05.08.32:166][959]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleForces' in 0.0004 seconds. Added 12 classes and 3 folders.
+[2021.11.24-05.08.32:172][959]Display: HotReload successful (25 functions remapped  0 scriptstructs remapped)
+[2021.11.24-05.08.32:236][959]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0103 seconds. Added 3834 classes and 931 folders.
+[2021.11.24-05.08.32:241][959]Display: HotReload took 21.1s.
+[2021.11.24-05.08.32:241][959]Warning: HotReload operation took 21.1s.
+[2021.11.24-05.08.32:525][959]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/xldgh/Desktop/AOT/BattleForces/Source/BattleForces/Public/TitanCharacter.h'
+[2021.11.24-05.08.32:526][959]LogVSAccessor: Warning: Couldn't open file 'C:/Users/xldgh/Desktop/AOT/BattleForces/Source/BattleForces/Private/TitanCharacter.cpp'.
+[2021.11.24-05.08.32:534][959]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2021.11.24-05.08.32:592][960]LogHotReload: New module detected: UE4Editor-BattleForces-8285.dll
+[2021.11.24-05.08.32:656][961]LogHotReload: Starting Hot-Reload from IDE
+[2021.11.24-05.08.32:783][961]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleForces' in 0.0005 seconds. Added 12 classes and 3 folders.
+[2021.11.24-05.08.32:789][961]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.11.24-05.08.32:801][961]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0116 seconds. Added 3834 classes and 931 folders.
+[2021.11.24-05.08.32:810][961]Display: HotReload took  0.2s.
+[2021.11.24-05.08.32:879][961]LogHttp: Warning: 000001B385E61600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.24-05.08.32:879][961]LogHttp: Warning: 000001B385E61600: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2021.11.24-05.08.32:879][961]LogHttp: Warning: 000001B385E61600: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2021.11.24-05.08.32:879][961]LogHttp: Warning: 000001B385E61600: libcurl info message cache 1 (  Trying 121.166.148.201...)
+[2021.11.24-05.08.32:879][961]LogHttp: Warning: 000001B385E61600: libcurl info message cache 2 (TCP_NODELAY set)
+[2021.11.24-05.08.32:879][961]LogHttp: Warning: 000001B385E61600: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (121.166.148.201) port 443 (#5))
+[2021.11.24-05.08.32:880][961]LogHttp: Warning: 000001B385E61600: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2021.11.24-05.08.32:880][961]LogHttp: Warning: 000001B385E61600: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2021.11.24-05.08.32:880][961]LogHttp: Warning: 000001B385E61600: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2021.11.24-05.08.32:880][961]LogHttp: Warning: 000001B385E61600: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2021.11.24-05.08.32:880][961]LogHttp: Warning: 000001B385E61600: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2021.11.24-05.08.32:880][961]LogHttp: Warning: 000001B385E61600: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2021.11.24-05.08.32:880][961]LogHttp: Warning: 000001B385E61600: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2021.11.24-05.08.32:880][961]LogHttp: Warning: 000001B385E61600: libcurl info message cache 11 (Closing connection 5)
+[2021.11.24-05.08.32:963][962]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.11.24-05.09.21:580][107]LogHttp: Warning: 000001B323C52B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.24-05.09.21:580][107]LogHttp: Warning: 000001B323C52B00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2021.11.24-05.09.21:580][107]LogHttp: Warning: 000001B323C52B00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2021.11.24-05.09.21:580][107]LogHttp: Warning: 000001B323C52B00: libcurl info message cache 1 (  Trying 121.166.148.201...)
+[2021.11.24-05.09.21:580][107]LogHttp: Warning: 000001B323C52B00: libcurl info message cache 2 (TCP_NODELAY set)
+[2021.11.24-05.09.21:581][107]LogHttp: Warning: 000001B323C52B00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (121.166.148.201) port 443 (#6))
+[2021.11.24-05.09.21:581][107]LogHttp: Warning: 000001B323C52B00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2021.11.24-05.09.21:581][107]LogHttp: Warning: 000001B323C52B00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2021.11.24-05.09.21:581][107]LogHttp: Warning: 000001B323C52B00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2021.11.24-05.09.21:581][107]LogHttp: Warning: 000001B323C52B00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2021.11.24-05.09.21:581][107]LogHttp: Warning: 000001B323C52B00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2021.11.24-05.09.21:581][107]LogHttp: Warning: 000001B323C52B00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2021.11.24-05.09.21:581][107]LogHttp: Warning: 000001B323C52B00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2021.11.24-05.09.21:581][107]LogHttp: Warning: 000001B323C52B00: libcurl info message cache 11 (Closing connection 6)
+[2021.11.24-05.09.21:916][108]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.11.24-05.10.21:452][286]LogHttp: Warning: 000001B323C50F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.24-05.10.21:452][286]LogHttp: Warning: 000001B323C50F00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2021.11.24-05.10.21:452][286]LogHttp: Warning: 000001B323C50F00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2021.11.24-05.10.21:452][286]LogHttp: Warning: 000001B323C50F00: libcurl info message cache 1 (  Trying 121.166.148.201...)
+[2021.11.24-05.10.21:452][286]LogHttp: Warning: 000001B323C50F00: libcurl info message cache 2 (TCP_NODELAY set)
+[2021.11.24-05.10.21:452][286]LogHttp: Warning: 000001B323C50F00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (121.166.148.201) port 443 (#7))
+[2021.11.24-05.10.21:452][286]LogHttp: Warning: 000001B323C50F00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2021.11.24-05.10.21:452][286]LogHttp: Warning: 000001B323C50F00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2021.11.24-05.10.21:452][286]LogHttp: Warning: 000001B323C50F00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2021.11.24-05.10.21:452][286]LogHttp: Warning: 000001B323C50F00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2021.11.24-05.10.21:452][286]LogHttp: Warning: 000001B323C50F00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2021.11.24-05.10.21:452][286]LogHttp: Warning: 000001B323C50F00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2021.11.24-05.10.21:452][286]LogHttp: Warning: 000001B323C50F00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2021.11.24-05.10.21:452][286]LogHttp: Warning: 000001B323C50F00: libcurl info message cache 11 (Closing connection 7)
+[2021.11.24-05.10.21:452][286]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.11.24-05.10.34:059][520]LogSlate: Window '프로젝트 열기' being destroyed
+[2021.11.24-05.10.38:695][675]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.11.24-05.10.55:358][ 22]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/xldgh/Desktop/AOT/BattleForces/BattleForces.uproject" -game -rocket -progress
+[2021.11.24-05.10.55:764][ 22]Discovering modules, targets and source code for project...
+[2021.11.24-05.10.58:282][ 22]Binding IntelliSense data...
+[2021.11.24-05.11.01:527][ 22]Binding IntelliSense data... 100%
+[2021.11.24-05.11.01:527][ 22]Writing project files...
+[2021.11.24-05.11.06:370][ 22]Writing project files... 100%
+[2021.11.24-05.11.06:535][ 22]Candidate modules for hot reload:
+[2021.11.24-05.11.06:535][ 22]  BattleForces
+[2021.11.24-05.11.06:535][ 22]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleForces,8957 BattleForcesEditor Win64 Development -Project="C:/Users/xldgh/Desktop/AOT/BattleForces/BattleForces.uproject" "C:/Users/xldgh/Desktop/AOT/BattleForces/BattleForces.uproject"  -IgnoreJunk]
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog: New page: 컴파일 - 2021. 11. 24. 오후 11:11:18
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\xldgh\Desktop\AOT).
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog: Creating makefile for BattleForcesEditor (no existing makefile)
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog: Parsing headers for BattleForcesEditor
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\xldgh\Desktop\AOT\BattleForces\BattleForces.uproject" "C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\BattleForcesEditor\Development\BattleForcesEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\xldgh\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog: Reflection code generated for BattleForcesEditor in 5.9024134 seconds
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog: Building BattleForcesEditor...
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog: Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog: Building 6 actions with 8 processes...
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog:   [1/6] TitanTargetPoint.cpp
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog:   [2/6] BattleForces.init.gen.cpp
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog:   [3/6] TitanTargetPoint.gen.cpp
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog:   [4/6] UE4Editor-BattleForces-8957.lib
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog:      C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\UE4Editor-BattleForces-8957.lib ???̺귯?? ?? C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\UE4Editor-BattleForces-8957.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog:   [5/6] UE4Editor-BattleForces-8957.dll
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog:      C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\UE4Editor-BattleForces-8957.suppressed.lib ???̺귯?? ?? C:\Users\xldgh\Desktop\AOT\BattleForces\Intermediate\Build\Win64\UE4Editor\Development\BattleForces\UE4Editor-BattleForces-8957.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog:   [6/6] BattleForcesEditor.target
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog: Total time in Parallel executor: 3.27 seconds
+[2021.11.24-05.11.18:747][ 22]CompilerResultsLog: Total execution time: 12.10 seconds
+[2021.11.24-05.11.18:748][ 22]LogMainFrame: MainFrame: Module compiling took 12.216 seconds
+[2021.11.24-05.11.18:803][ 22]LogClass: Could not find existing class TitanTargetPoint in package /Script/BattleForces for HotReload, assuming new class
+[2021.11.24-05.11.18:816][ 22]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleForces' in 0.0004 seconds. Added 13 classes and 3 folders.
+[2021.11.24-05.11.18:824][ 22]Display: HotReload successful (25 functions remapped  0 scriptstructs remapped)
+[2021.11.24-05.11.18:889][ 22]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0102 seconds. Added 3835 classes and 931 folders.
+[2021.11.24-05.11.18:893][ 22]Display: HotReload took 12.4s.
+[2021.11.24-05.11.18:906][ 22]Warning: HotReload operation took 12.4s.
+[2021.11.24-05.11.19:304][ 22]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2021.11.24-05.11.19:318][ 22]LogHotReload: New module detected: UE4Editor-BattleForces-8957.dll
+[2021.11.24-05.11.19:361][ 23]LogHotReload: Starting Hot-Reload from IDE
+[2021.11.24-05.11.19:480][ 23]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BattleForces' in 0.0003 seconds. Added 13 classes and 3 folders.
+[2021.11.24-05.11.19:486][ 23]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.11.24-05.11.19:501][ 23]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0159 seconds. Added 3835 classes and 931 folders.
+[2021.11.24-05.11.19:510][ 23]Display: HotReload took  0.1s.
+[2021.11.24-05.11.21:131][ 32]LogHttp: Warning: 000001B385AB4F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.24-05.11.21:131][ 32]LogHttp: Warning: 000001B385AB4F00: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2021.11.24-05.11.21:131][ 32]LogHttp: Warning: 000001B385AB4F00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2021.11.24-05.11.21:131][ 32]LogHttp: Warning: 000001B385AB4F00: libcurl info message cache 1 (  Trying 121.166.148.201...)
+[2021.11.24-05.11.21:132][ 32]LogHttp: Warning: 000001B385AB4F00: libcurl info message cache 2 (TCP_NODELAY set)
+[2021.11.24-05.11.21:132][ 32]LogHttp: Warning: 000001B385AB4F00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (121.166.148.201) port 443 (#8))
+[2021.11.24-05.11.21:132][ 32]LogHttp: Warning: 000001B385AB4F00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2021.11.24-05.11.21:132][ 32]LogHttp: Warning: 000001B385AB4F00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2021.11.24-05.11.21:132][ 32]LogHttp: Warning: 000001B385AB4F00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2021.11.24-05.11.21:132][ 32]LogHttp: Warning: 000001B385AB4F00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2021.11.24-05.11.21:132][ 32]LogHttp: Warning: 000001B385AB4F00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2021.11.24-05.11.21:132][ 32]LogHttp: Warning: 000001B385AB4F00: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2021.11.24-05.11.21:132][ 32]LogHttp: Warning: 000001B385AB4F00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2021.11.24-05.11.21:132][ 32]LogHttp: Warning: 000001B385AB4F00: libcurl info message cache 11 (Closing connection 8)
+[2021.11.24-05.11.21:132][ 32]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1B9EA723-4BA4-863E-9946-A79AA894ECD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=ef52ebab4bbfac976060daacba8a2a6e%7Cfa968ab6b78344bdac446bac8a6e69cc%7Cf6e42a46-666d-42ea-bcb8-effa5df95cf7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.11.24-05.11.25:523][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.11.24-05.11.26:178][124]LogEditorViewport: Clicking on Actor (LMB): Monster1_C (Monster1)
+[2021.11.24-05.11.27:464][150]Cmd: DELETE
+[2021.11.24-05.11.27:464][150]Cmd: ACTOR DELETE
+[2021.11.24-05.11.27:505][150]LogEditorActor: Deleted Actor: Monster1_C
+[2021.11.24-05.11.27:550][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.11.24-05.11.27:630][150]LogEditorActor: Deleted 1 Actors (0.150 secs)
+[2021.11.24-05.11.30:598][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.11.24-05.11.32:298][246]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.24-05.11.32:344][246]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Blueprints/Monster/AC_Normal_BB.AC_Normal_BB
+	Asset Name: /Game/Blueprints/Monster/AC_Normal_FindRandomLocation.AC_Normal_FindRandomLocation
+	Asset Name: /Game/Blueprints/Monster/AC_Normal_BT.AC_Normal_BT
+	Asset Name: /Game/Blueprints/Monster/AC_Normal.AC_Normal
+	Asset Name: /Game/Blueprints/Monster/Monster1.Monster1
+[2021.11.24-05.11.34:392][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.11.24-05.11.34:415][246]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.24-05.11.34:585][246]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.170 s
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: === Handled ensure: ===
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: 
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: Ensure condition failed: CurObject != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3143]
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: 
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: Stack: 
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffba134b6b9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffba0c12d8b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffba035b269 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffba063eade UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffba0635b97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbb127a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbb129280e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbb10e421e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbb115e104 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbb1147097 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbb1139b62 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbc883c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbc88292b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbc883e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbc8824410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbfa3fe7e8 USER32.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbfa3fe229 USER32.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbc883fb79 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbb116865a UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbb1106b09 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffba06d1b9e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffba0c06962 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffb96dfc468 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffb82992d69 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffb82992f6e UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffb829823a7 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffb97662173 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffb9765b7f2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffb976db6d2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffb9765ea17 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbb127a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbb129280e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbb10e421e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbb115e104 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbb1147097 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbb1139b62 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbc883c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbc88292b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbc883e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbc8824410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbfa3fe7e8 USER32.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbfa3fe229 USER32.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ffbc883fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ff6dc557621 UE4Editor.exe!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ff6dc570fbc UE4Editor.exe!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ff6dc5710aa UE4Editor.exe!UnknownFunction []
+[2021.11.24-05.11.34:586][246]LogOutputDevice: Error: [Callstack] 0x00007ff6dc5740cd UE4Editor.exe!UnknownFunction []
+[2021.11.24-05.11.34:587][246]LogOutputDevice: Error: [Callstack] 0x00007ff6dc585984 UE4Editor.exe!UnknownFunction []
+[2021.11.24-05.11.34:587][246]LogOutputDevice: Error: [Callstack] 0x00007ff6dc58853a UE4Editor.exe!UnknownFunction []
+[2021.11.24-05.11.34:587][246]LogOutputDevice: Error: [Callstack] 0x00007ffbfafe7034 KERNEL32.DLL!UnknownFunction []
+[2021.11.24-05.11.34:587][246]LogOutputDevice: Error: [Callstack] 0x00007ffbfb2e2651 ntdll.dll!UnknownFunction []
+[2021.11.24-05.11.34:587][246]LogOutputDevice: Error: 

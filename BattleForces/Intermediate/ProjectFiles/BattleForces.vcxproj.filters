@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\BattleForces.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{1BD493C2-C0A2-4F23-A5BE-E2ACA0B0809C}</UniqueIdentifier>
+      <UniqueIdentifier>{F1BE1789-DDBE-48B2-9137-5B09F5BF4879}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BattleForces.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{11B626AA-4AFB-4827-B662-3A247CEDDF39}</UniqueIdentifier>
+      <UniqueIdentifier>{F1688D6E-2870-4332-A253-0E0524767F00}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\BattleForces">
-      <UniqueIdentifier>{80B1551D-F6F3-4430-B527-B4B3EAFFAC93}</UniqueIdentifier>
+      <UniqueIdentifier>{7DC4CE6E-9588-4B74-B72A-2DB90C2F4FF2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BattleForces\BattleForces.Build.cs">
       <Filter>Source\BattleForces</Filter>
@@ -45,8 +45,11 @@
       <Filter>Source\BattleForces</Filter>
     </ClInclude>
     <Filter Include="Source\BattleForces\Private">
-      <UniqueIdentifier>{6CC564A8-624B-4862-94AB-825E16D3CF96}</UniqueIdentifier>
+      <UniqueIdentifier>{066649EB-2E67-44FB-9BD2-B3DFB00BD0A8}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\BattleForces\Private\AICharacter.cpp">
+      <Filter>Source\BattleForces\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\BattleForces\Private\AOTDefenceGameMode.cpp">
       <Filter>Source\BattleForces\Private</Filter>
     </ClCompile>
@@ -71,9 +74,21 @@
     <ClCompile Include="..\..\Source\BattleForces\Private\Gun.cpp">
       <Filter>Source\BattleForces\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\BattleForces\Private\TitanCharacter.cpp">
+      <Filter>Source\BattleForces\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BattleForces\Private\TitanController.cpp">
+      <Filter>Source\BattleForces\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BattleForces\Private\TitanTargetPoint.cpp">
+      <Filter>Source\BattleForces\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\BattleForces\Public">
-      <UniqueIdentifier>{FCF8ABB9-0C81-46C0-8959-31323D860FD1}</UniqueIdentifier>
+      <UniqueIdentifier>{CE6BB9ED-5250-40AE-9C93-483C17524B7D}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\BattleForces\Public\AICharacter.h">
+      <Filter>Source\BattleForces\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\BattleForces\Public\AOTDefenceGameMode.h">
       <Filter>Source\BattleForces\Public</Filter>
     </ClInclude>
@@ -96,6 +111,15 @@
       <Filter>Source\BattleForces\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\BattleForces\Public\Gun.h">
+      <Filter>Source\BattleForces\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\BattleForces\Public\TitanCharacter.h">
+      <Filter>Source\BattleForces\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\BattleForces\Public\TitanController.h">
+      <Filter>Source\BattleForces\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\BattleForces\Public\TitanTargetPoint.h">
       <Filter>Source\BattleForces\Public</Filter>
     </ClInclude>
   </ItemGroup>
