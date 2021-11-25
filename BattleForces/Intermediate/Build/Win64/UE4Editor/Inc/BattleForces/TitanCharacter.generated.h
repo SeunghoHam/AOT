@@ -8,14 +8,23 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class APawn;
 #ifdef BATTLEFORCES_TitanCharacter_generated_h
 #error "TitanCharacter.generated.h already included, missing '#pragma once' in TitanCharacter.h"
 #endif
 #define BATTLEFORCES_TitanCharacter_generated_h
 
 #define BattleForces_Source_BattleForces_Public_TitanCharacter_h_12_SPARSE_DATA
-#define BattleForces_Source_BattleForces_Public_TitanCharacter_h_12_RPC_WRAPPERS
-#define BattleForces_Source_BattleForces_Public_TitanCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define BattleForces_Source_BattleForces_Public_TitanCharacter_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execOnPlayerCaught);
+
+
+#define BattleForces_Source_BattleForces_Public_TitanCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOnPlayerCaught);
+
+
 #define BattleForces_Source_BattleForces_Public_TitanCharacter_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesATitanCharacter(); \
