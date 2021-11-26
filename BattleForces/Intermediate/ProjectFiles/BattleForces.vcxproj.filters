@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\BattleForces.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{6AB75ADA-BFE7-4594-BD82-82931F4F2315}</UniqueIdentifier>
+      <UniqueIdentifier>{C3D48B31-797B-4B0A-8268-DC68142FB5A1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BattleForces.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{8AE9E64F-F3B6-4408-A9BF-FDF69DFBF231}</UniqueIdentifier>
+      <UniqueIdentifier>{21C07462-E25B-4373-949C-7D83D2856767}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\BattleForces">
-      <UniqueIdentifier>{8553D326-9C17-4E6F-86FE-2EAAA4D156C7}</UniqueIdentifier>
+      <UniqueIdentifier>{90D3E71E-758A-483E-80B1-97DDDE44673D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BattleForces\BattleForces.Build.cs">
       <Filter>Source\BattleForces</Filter>
@@ -45,7 +45,7 @@
       <Filter>Source\BattleForces</Filter>
     </ClInclude>
     <Filter Include="Source\BattleForces\Private">
-      <UniqueIdentifier>{E5F4B152-82C0-4692-AD07-C46681A45AE2}</UniqueIdentifier>
+      <UniqueIdentifier>{665422F0-B475-4887-83D6-2361FBEADF3B}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\BattleForces\Private\AOTDefenceGameMode.cpp">
       <Filter>Source\BattleForces\Private</Filter>
@@ -84,7 +84,7 @@
       <Filter>Source\BattleForces\Private</Filter>
     </ClCompile>
     <Filter Include="Source\BattleForces\Public">
-      <UniqueIdentifier>{FA618235-9D9D-450A-A76B-F05522F6F5D7}</UniqueIdentifier>
+      <UniqueIdentifier>{8A91F033-4E92-4BC4-90FD-A49D214AFEC4}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\BattleForces\Public\AOTDefenceGameMode.h">
       <Filter>Source\BattleForces\Public</Filter>
